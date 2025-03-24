@@ -1,5 +1,5 @@
 #皆呈函數邏輯練習
-def factorial(n):  #階乘函數
+def factorial(n):  #階乘函數    # factorial 階乘函數
     if n <= 1:  #當 n <= 1 時，函數直接返回 1（這是遞迴的基本情況/終止條件）   n > 1 時，函數返回 n * factorial(n-1)（遞迴情況）
         return 1    
     else:
