@@ -31,3 +31,4 @@ total = price * quantity   #total 是總價格
 
 print(f"你購買了{quantity} {item} ，總價為{total}")
 
+
